@@ -5,7 +5,7 @@ import React from 'react';
 function Welcome(props){
     return(
         <div>
-            <h2>Hey{props.name}</h2>
+              <h1>Hey{props.name}!</h1>
         <h2>Welcome to Newton School.</h2>
         </div>
 
